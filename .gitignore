@@ -364,3 +364,6 @@ ML-For-Beginners.Rproj
 .env
 .venv
 venv
+
+# Big file
+6-NLP/data/Hotel_Reviews.csv
